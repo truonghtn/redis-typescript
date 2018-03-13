@@ -1,0 +1,19 @@
+{
+  "name": "module-redis-typescript",
+  "version": "1.0.0",
+  "description": "Typescript redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "truongpn77@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.5",
+    "redis": "^2.8.0"
+  }
+}
